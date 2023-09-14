@@ -1,0 +1,21 @@
+*{
+    margin:0 auto;
+}
+.cricket{
+    border-radius:50px;
+    height:700px;
+    width: 100%;
+    background-size: contain;
+    background-color:white;
+    margin-top:-160px;
+    text-align:center;
+}
+.violet1{
+    color:rgb(131, 10, 212); 
+}
+.violet{
+    background-color:rgb(131, 10, 212);
+}
+p{
+    font-size:18px;
+}

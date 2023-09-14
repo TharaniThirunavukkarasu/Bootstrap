@@ -1,0 +1,16 @@
+a{
+    text-decoration:none;
+    color: antiquewhite;
+}
+h3{
+    margin:10px;
+}
+body{
+    background-color:rgb(23, 208, 214);
+}
+.square{
+   border-width: 4px;
+   border-style:solid;
+   padding: 10px;
+
+}

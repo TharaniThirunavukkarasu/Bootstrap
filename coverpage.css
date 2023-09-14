@@ -1,0 +1,22 @@
+ .back{
+    background-image:url(./cover.jpg);
+    width:100%;
+    height:100vh;
+    margin:0 auto;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+ }
+ h1{
+    border:8px solid #48ee59;
+    background-color: #00000080;
+    width:25%;
+    height: 60vh;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top:90px;
+    padding:60px;
+    font-family:Bree Serif;
+
+ }

@@ -1,0 +1,26 @@
+*{
+    margin:0 auto;
+}
+.section1{
+    width:100%;
+    height:200px;
+    background-color:#fb4e71;
+}
+.para1{
+    font-size:18px;
+}
+ .image2{ 
+    width:150px; 
+     height:100px; 
+ }
+ .crick{
+    width:200px;
+    height:200px;
+    
+
+ }
+ .caa1{
+    height:100px;
+    width:50px;
+    margin:10px;
+ }

@@ -1,0 +1,20 @@
+.btn{
+    background-color:#ffffff;
+    color: black;
+
+}
+.card-title{
+    font-family: Bree Serif;
+}
+.card-text .btn{
+    font-family:Roboto;
+   
+   
+}
+.card{
+     background-color:#f6c56e;
+     color:#323f4b;
+     width:18rem;
+     margin:0 auto;
+     border-radius:9px;
+}
